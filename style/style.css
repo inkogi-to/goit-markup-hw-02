@@ -199,8 +199,6 @@ h6 {
 
 .features__item-title {
     font-weight: 700;
-    font-size: 14px;
-    line-height: 1.15;
     letter-spacing: 0.03em;
     text-transform: uppercase;
     margin-bottom: 10px;
@@ -208,7 +206,6 @@ h6 {
 
 .features__item-text {
     font-weight: 400;
-    font-size: 14px;
     line-height: 1.72;
     letter-spacing: 0.03em;
     max-width: 270px;
